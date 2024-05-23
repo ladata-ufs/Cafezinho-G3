@@ -31,19 +31,13 @@ Conheca-nos mais através do [instagram da Ladata](https://www.instagram.com/lad
 ### 🎏 Índice interno do projeto
 
 - **<span style="font-size: 1.2em;">[EDA realizada por Eduarda](https://github.com/ladata-ufs/Cafezinho-G3/tree/main/A-import-reexport-duda)</span>**   
-    <div style="text-align: left;">
-    _Descrição_: [INSERIR TEXTO AQUI]
-    </div>  
+_Descrição_: [INSERIR TEXTO AQUI] 
 
 -  **<span style="font-size: 1.2em;">[EDA realizada por Jhon](https://github.com/ladata-ufs/Cafezinho-G3/tree/main/A-multianalise-jhon)</span>**   
-    <div style="text-align: left;">
-    _Descrição_: [INSERIR TEXTO AQUI]
-    </div>
+_Descrição_: [INSERIR TEXTO AQUI]
 
 - **<span style="font-size: 1.2em;">[EDA realizada por Pedro](https://github.com/ladata-ufs/Cafezinho-G3/tree/main/A-consumo-producao-pedro)</span>**   
-    <div style="text-align: left;">
-    _Descrição_: O foco dessa EDA se deu nos arquivos '.csv' de produção e de consumo de café nos países abrangidos pelo dataset. Ao tentar responder a pergunta "há relação entre consumo e produção de café?" foram realizadas análises globais e por país que mostram como essas variáveis se comportaram ao longo dos anos e cumulativamente, os gráficos e tabelas criados elucidam a questão mas não aprofundam como essa relação se dá. Para tanto é necessário um estudo correlacional entre essas variáveis.
-    </div>
+_Descrição_: O foco dessa EDA se deu nos arquivos '.csv' de produção e de consumo de café nos países abrangidos pelo dataset. Ao tentar responder a pergunta "há relação entre consumo e produção de café?" foram realizadas análises globais e por país que mostram como essas variáveis se comportaram ao longo dos anos e cumulativamente, os gráficos e tabelas criados elucidam a questão mas não aprofundam como essa relação se dá. Para tanto é necessário um estudo correlacional entre essas variáveis.
 
 
 

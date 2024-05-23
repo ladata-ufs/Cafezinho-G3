@@ -14,7 +14,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
- <a href="#️-autor">Autor</a> • 
+ <a href="#️-autor">Autor</a>
 </p>
 
 

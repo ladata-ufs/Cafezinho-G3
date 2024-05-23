@@ -34,7 +34,7 @@ Conheca-nos mais através do [instagram da Ladata](https://www.instagram.com/lad
 _Descrição_: [INSERIR TEXTO AQUI] 
 
 -  **<span style="font-size: 1.2em;">[EDA realizada por Jhon](https://github.com/ladata-ufs/Cafezinho-G3/tree/main/A-multianalise-jhon)</span>**   
-_Descrição_: [INSERIR TEXTO AQUI]
+_Descrição_: Nesta etapa do projeto, nosso objetivo foi analisar uma parte do Coffee dataset nas dimensões de importação, exportação e reexportação. Focamos inicialmente no comportamento das variáveis no intervalo de 1990 a 2019, aplicando diversas transformações que permitiram compará-las ao longo do tempo e avaliar seu comportamento e variância de forma mais precisa. Esse processo possibilitou a identificação de tendências e a geração de análises de desempenho detalhadas.
 
 - **<span style="font-size: 1.2em;">[EDA realizada por Pedro](https://github.com/ladata-ufs/Cafezinho-G3/tree/main/A-consumo-producao-pedro)</span>**   
 _Descrição_: O foco dessa EDA se deu nos arquivos '.csv' de produção e de consumo de café nos países abrangidos pelo dataset. Ao tentar responder a pergunta "há relação entre consumo e produção de café?" foram realizadas análises globais e por país que mostram como essas variáveis se comportaram ao longo dos anos e cumulativamente, os gráficos e tabelas criados elucidam a questão mas não aprofundam como essa relação se dá. Para tanto é necessário um estudo correlacional entre essas variáveis.

@@ -31,7 +31,7 @@ Conheca-nos mais através do [instagram da Ladata](https://www.instagram.com/lad
 ### 🎏 Índice interno do projeto
 
 - **<span style="font-size: 1.2em;">[EDA realizada por Eduarda](https://github.com/ladata-ufs/Cafezinho-G3/tree/main/A-import-reexport-duda)</span>**   
-_Descrição_: Nosso foco foi realizar uma Análise Exploratória de Dados (EDA) no conjunto de dados "Coffee Dataset". O meu objetivo principal foi analisar as informações para encontrar uma relação entre as taxas de importação e reexportação de café entre os países. Utilizamos gráficos, tabelas e rankings para visualizar e compreender esses relacionamentos. 
+_Descrição_: Nosso foco foi realizar uma EDA no conjunto de dados "Coffee Dataset". O meu objetivo principal foi analisar as informações para encontrar uma relação entre as taxas de importação e reexportação de café entre os países. Utilizamos gráficos, tabelas e rankings para visualizar e compreender esses relacionamentos. 
 
 -  **<span style="font-size: 1.2em;">[EDA realizada por Jhon](https://github.com/ladata-ufs/Cafezinho-G3/tree/main/A-multianalise-jhon)</span>**   
 _Descrição_: Nesta etapa do projeto, nosso objetivo foi analisar uma parte do *Coffee dataset* nas dimensões de importação, exportação e reexportação. Focando inicialmente no comportamento das variáveis no intervalo de 1990 a 2019, aplicando transformações que permitiram compará-las ao longo do tempo e avaliar seu comportamento e variância de forma mais precisa. Esse processo possibilitou a identificação de tendências e a geração de análises de desempenho detalhadas.
